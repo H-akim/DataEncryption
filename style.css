@@ -1,0 +1,43 @@
+#app{
+    width: 100%;
+    max-width: 100%;
+    text-align: center;
+}
+#app p{
+    width: 100%;
+    padding: 14px;
+    background-color: red;
+    color: white;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 22px;
+    border-radius: 15px;
+}
+#app textarea{
+    width: 100%;
+    border: 2px solid red;
+    outline: none;
+    border-radius: 14px;
+    min-height: 140px;
+    padding: 10px 30px;
+    background-color: rgb(207, 207, 207);
+    font-size: 20px;
+    font-family: cursive;
+}
+#app select{
+    width: 100%;
+    padding: 14px;
+    border-radius: 14px;
+    margin-bottom: 14px;
+    font-family: cursive;
+    font-weight: 900;
+    letter-spacing: 2px;
+    width: 50%;
+}
+select option{
+    text-align: center;
+    font-family: cursive;
+    font-size: 18px;
+    text-transform: capitalize;
+    background-color: rgb(221, 221, 221);
+}
